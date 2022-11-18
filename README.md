@@ -6,8 +6,16 @@
 - Familarizar los prefijos métricos con la resolución y lectura de datos planteados en los diferentes problemas
 - Aplicar los conceptos y teoría de potencia para la resolución de problemas
 
-## 2. MARCO TEÓRICO   
+## 2. MARCO  TEÓRICO
 
+![1](https://user-images.githubusercontent.com/116811469/202645385-141f8a3d-659e-4505-9c71-f8efa5491334.png)
+![2](https://user-images.githubusercontent.com/116811469/202645388-6bbb460b-72e2-4873-9b0f-e03ec708b636.png)
+![3](https://user-images.githubusercontent.com/116811469/202645376-1c9ae514-5743-495b-9958-0cdc432a6e14.png)
+![4](https://user-images.githubusercontent.com/116811469/202645380-5c3509fb-3f86-423a-8f42-b4ea4c0176a8.png)
+![5](https://user-images.githubusercontent.com/116811469/202645381-091ee04a-d691-421b-9baa-5b3525222a73.png)
+![6](https://user-images.githubusercontent.com/116811469/202645382-caf01604-bc4d-408a-a13b-4592767bf097.png)
+![7](https://user-images.githubusercontent.com/116811469/202645384-57f9c2e0-0fbe-4026-a45c-12a8b0a92134.png)
+![8](https://user-images.githubusercontent.com/116811469/202645734-f79bf562-c412-465a-a3ff-005b5166e398.png)
 
 ### Fuentes de potencia
 
@@ -58,8 +66,11 @@ I=50mA
 
 Resistencia= 8200Ω±5% = 8,2K Ω±5%
 
+![8 1](https://user-images.githubusercontent.com/116811469/202645843-9d7eaf45-3d3e-43b1-8f53-9c4ac2dbb7be.png)
 
 ### 10) ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
+![9](https://user-images.githubusercontent.com/116811469/202645980-9c2bcd58-ae81-4ee8-9101-4a29dbd226fe.png)
 
 I=V/R
 
@@ -125,6 +136,8 @@ I=12/37.4=0.32A
 
 ### 22) El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8Ω o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 
+![10](https://user-images.githubusercontent.com/116811469/202646247-6ba06e68-08cf-459e-898a-324a3ad5fc74.png)
+
 120-100=20v
 
 I=V/R  I=20/8=2.5A
@@ -163,7 +176,7 @@ V=850V
 
 ### 26) Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas
 
-
+![11](https://user-images.githubusercontent.com/116811469/202646342-cc703d49-7281-49ba-bd61-81a315a57bc1.png)
 
 Utilizando la formula V=I*R
 
@@ -222,7 +235,7 @@ R=60Ω-15Ω= 45Ω
 
 ### 36) En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas
 
-
+![12](https://user-images.githubusercontent.com/116811469/202646494-ea7c1f6d-99aa-401b-9a3b-ab9d04e6bcdf.png)
 
 ### ========== EJERCICIOS CAPITULO 4 ==========
 
@@ -347,6 +360,8 @@ P=1.470588235x10<sup>-8</sup>W
 #### ---------- Seccion 4-4 Conversion de Energia y Caida de Voltaje en una Resistencia ----------
 
 ### 28) En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto
+
+![13](https://user-images.githubusercontent.com/116811469/202646732-d3d256c1-f0c4-481e-b941-009e7fd51d7b.png)
 
 #### ---------- Seccion 4-5 Fuentes de Potencia ----------
 

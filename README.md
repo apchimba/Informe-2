@@ -129,6 +129,8 @@ I=12/37.4=0.32A
 
 I=V/R  I=20/8=2.5A
 
+#### ---------- Seccion 3-3 Calculo de Voltaje ----------
+
 ### 24) Calcule el voltaje para cada valor de I y R:
 
 * a) I=1mA, R=10Ω
@@ -170,6 +172,8 @@ Utilizando la formula V=I*R
 * b) (5µA)*(100MΩ)= (5x10<sup>-6</sup>A) * (100x10<sup>6</sup>Ω)=500V
 
 * c) 2.5A*47Ω=117.5V
+
+#### ---------- Seccion 3-4 Calculo de la Resistencia ----------
 
 ### 28) Encuentre la resistencia de un reóstato para cada valor de V e I:
 
@@ -214,11 +218,15 @@ R=120V/2A = 60Ω
 
 R=60Ω-15Ω= 45Ω
 
+#### ---------- Seccion 3-5 Introduccion a la Localizacion de Fallas ----------
+
 ### 36) En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas
 
 
 
 ### ========== EJERCICIOS CAPITULO 4 ==========
+
+#### ---------- Seccion 4-1 Energia y Potencia ----------
 
 ### 2) Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora
 
@@ -290,6 +298,8 @@ t=25J/1175W
 
 t= 0.021s
 
+#### ---------- Seccion 4-2 Potencia en un Circuito Electrico ----------
+
 ### 18) Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
 * Usando la formula P=VI y teniendo en cuenta que 3mA= 0.003A
@@ -322,6 +332,8 @@ R= 100/4
 
 R=25Ω
 
+#### ---------- Seccion 4-3 Clasificaciones de Potencia en Resistores ----------
+
 ### 26) Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
 * Usando la formula P=I<sup>2</sup>R y teniendo en cuenta las unidades:
@@ -332,9 +344,11 @@ P=(0.010)<sup>2</sup>/6800
 
 P=1.470588235x10<sup>-8</sup>W
 
+#### ---------- Seccion 4-4 Conversion de Energia y Caida de Voltaje en una Resistencia ----------
+
 ### 28) En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto
 
-
+#### ---------- Seccion 4-5 Fuentes de Potencia ----------
 
 ### 30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 

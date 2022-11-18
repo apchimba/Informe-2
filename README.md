@@ -91,23 +91,23 @@ Si debido a que cuando aumenta el voltaje, también la corriente, es decir son p
 
 * a) V=9V, R=2.7kΩ
 
-
+I=V/R= 3.3 miliΩ
 
 * b) V=5.5V, R=10kΩ
 
-
+I=V/R=0.55 miliΩ
 
 * c) V=40V, R=68kΩ
 
-
+I=V/R=0.5 miliΩ
 
 * d) V=1kV, R=2.2kΩ
 
-
+I=V/R=0.45 Ω
 
 * e) V=66kv, R=10MΩ*
 
-
+I=V/R=6.6 miliΩ
 
 ### 18) Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor
 

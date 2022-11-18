@@ -218,7 +218,7 @@ R=60Ω-15Ω= 45Ω
 
 
 
-## ========== EJERCICIOS CAPITULO 4 ==========
+### ========== EJERCICIOS CAPITULO 4 ==========
 
 ### 2) Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora
 
@@ -372,22 +372,22 @@ x=0.014A
 
 Se cumple que el valor de salida es menor al valor de entrada
 
-## 4. Video
+## 4. VIDEO
 
 
 
-## 5. Conclusiones
+## 5. CONCLUSIONES
 
 Con la elaboración de este informe se pudo estudiar y entender la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas. Con la resolución de muchos de estos problemas se puso en práctica el uso de los prefijos métricos puesto que para la resolución de estos era necesario la conversión de algunos datos. Este informe a la vez sirvió para conocer el manejo de la ley de ohm en combinación de la potencia, la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia.
 
-## 6. Bibliografía
+## 6. BIBLIOGRAFIA
 
-_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.
+- Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.
 
-_Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+- Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
 
-_Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos (Vol. 30). Prentice-Hall Hispanoamericana.
+- Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos (Vol. 30). Prentice-Hall Hispanoamericana.
 
-_Mora, C., Sánchez-Sánchez, R., & Velázquez-Arteaga, L. J. (2015). Enseñando la Ley de Ohm usando Aprendizaje Activo de la Física a Nivel Medio Superior en el Distrito Federal de México. Latin-American Journal of Physics Education, 9.
+- Mora, C., Sánchez-Sánchez, R., & Velázquez-Arteaga, L. J. (2015). Enseñando la Ley de Ohm usando Aprendizaje Activo de la Física a Nivel Medio Superior en el Distrito Federal de México. Latin-American Journal of Physics Education, 9.
 
-_Jiménez, R. H. (2003). Las leyes de Kirchhoff y las redes electricas de corriente continua. Ingeniería. Revista de la Universidad de Costa Rica, 13(1-2), 77-83.
+- Jiménez, R. H. (2003). Las leyes de Kirchhoff y las redes electricas de corriente continua. Ingeniería. Revista de la Universidad de Costa Rica, 13(1-2), 77-83.

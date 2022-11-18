@@ -214,20 +214,19 @@ R=120V/2A = 60Ω
 
 R=60Ω-15Ω= 45Ω
 
-### 36) En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
-ohmmetro mostradas
+### 36) En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas
 
 
 
 ## ========== EJERCICIOS CAPITULO 4 ==========
 
-**2)Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora**
+### 2) Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora
 
 P=W/t -------> 1kW=1000J 
 
 1000/h*3600s= 3.6x10<sup>6</sup>J
 
-**4)¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+### 4) ¿Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 
 Uso la formula de P=W/t
 
@@ -235,44 +234,43 @@ Uso la formula de P=W/t
 
 P=7500/18000s=0.41W
 
-**6) Convierta las siguientes cantidades en kilowatts:**
+### 6) Convierta las siguientes cantidades en kilowatts:
 
-*a)1000W*=1kW
+* a) 1000W=1kW
 
-*b)3750W*=3.75kW
+* b) 3750W=3.75kW
 
-*c)160W*=0.16kW
+* c) 160W=0.16kW
 
-*d)50,000W*=50kW
+* d) 50,000W=50kW
 
-**8)Convierta las siguientes cantidades en miliwatts:**
+### 8) Convierta las siguientes cantidades en miliwatts:
 
-*a)1W*=1000mW
+* a) 1W=1000mW
 
-*b)0.4W*=400mW
+* b) 0.4W=400mW
 
-*c)0.002W*=2mW
+* c) 0.002W=2mW
 
-*d)0.0125W*=12.5mW
+* d) 0.0125W=12.5mW
+ 
+### 10) Convierta las siguientes cantidades en watts:
 
-**10)Convierta las siguientes cantidades en watts:**
+* a) 1.5kW=1500W
 
-*a)1.5kW*=1500W
+* b) 0.5MW=5x10<sup>5</sup>W
 
-*b)0.5MW*=5x10<sup>5</sup>W
+* c) 350mW=0.35W
 
-*c)350mW*=0.35W
+* d) 9000µW=9x10<sup>-3</sup>
 
-*d)9000µW*=9x10<sup>-3</sup>
-
-**12)Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
-kilowatts-hora de energía consume?**
+### 12) Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
 P=W/t  ------> W=Pt
 
 W=(300W)(2592000s)=(777600000J)/3600J=216000kW
 
-**14)Convierta 5x10<sup>6</sup> watts-minutos en kWh**
+### 14) Convierta 5x10<sup>6</sup> watts-minutos en kWh
 
 5x10<sup>6</sup>= 5000000W
 
@@ -280,43 +278,43 @@ W=(300W)(2592000s)=(777600000J)/3600J=216000kW
 
 5000000x0.000017= 85kWh
 
-**16)¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?**
+### 16) ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47Ω para consumir 25 J?
 
-Usando la formula P=I<sup>2</sup>R, tengo que:
+* Usando la formula P=I<sup>2</sup>R, tengo que:
 
 P=5<sup>2</sup>A(47Ω)=1175W
 
-Usando la formula de la potencia: P=W/t, despejo t y reemplazo
+* Usando la formula de la potencia: P=W/t, despejo t y reemplazo
 
 t=25J/1175W 
 
 t= 0.021s
 
-**18)Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?**
+### 18) Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
-Usando la formula P=VI y teniendo en cuenta que 3mA= 0.003A
+* Usando la formula P=VI y teniendo en cuenta que 3mA= 0.003A
 
 P=(5.5V)(0.003A)=0.0165W
 
-**20)¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?**
+### 20) ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
 
-Usando la formula P=I<sup>2</sup>R y teniendo en cuenta las unidades:
+* Usando la formula P=I<sup>2</sup>R y teniendo en cuenta las unidades:
 
 (500mA=0.5A) y (4.7kΩ=4700Ω)
 
 P=(0.5)<sup>2</sup>A(4700)Ω=2350W
 
-**22)Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?**
+### 22) Si entre los extremos de un resistor de 680Ω existen 60 V, ¿cuál es la potencia?
 
-Utilizando la formula P=V<sup>2</sup>/R, reemplazo y obtengo:
+* Utilizando la formula P=V<sup>2</sup>/R, reemplazo y obtengo:
 
 P=60<sup>2</sup>V/680Ω
 
 P=5.29W
 
-**24)Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido**
+### 24) Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido
 
-Para calcular el valor de la resistencia uso la formula aplicada en el ejercicio 20, solamente despejaría R: P=I<sup>2</sup>R
+* Para calcular el valor de la resistencia uso la formula aplicada en el ejercicio 20, solamente despejaría R: P=I<sup>2</sup>R
 
 Tendría que: R= P/I<sup>2</sup>
 
@@ -324,9 +322,9 @@ R= 100/4
 
 R=25Ω
 
-**26)Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.**
+### 26) Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
-Usando la formula P=I<sup>2</sup>R y teniendo en cuenta las unidades:
+* Usando la formula P=I<sup>2</sup>R y teniendo en cuenta las unidades:
 
 10mA= 0.010A y 6.8kΩ=6800
 
@@ -334,19 +332,19 @@ P=(0.010)<sup>2</sup>/6800
 
 P=1.470588235x10<sup>-8</sup>W
 
-**28)En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto**
+### 28) En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto
 
 
 
-**30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?**
+### 30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 
 I=V/R
 
 I=1.25/10=0.125A
 
-Produce un promedio de 0.125A durante 90 horas de acuerdo al voltaje
+* Produce un promedio de 0.125A durante 90 horas de acuerdo al voltaje
 
-**32)Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?**
+### 32) Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
 24h=x/1.5A
 
@@ -354,7 +352,7 @@ x=24h x 1.5A
 
 x= 36Ah
 
-**34)Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?**
+### 34) Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 
 650mAh= 0.65Ah
 
@@ -362,27 +360,27 @@ x= 36Ah
 
 x=0.014A
 
-El valor promedio de corriente será de 0.014A
+* El valor promedio de corriente será de 0.014A
 
-**36)Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
+### 36) Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
-Eficiencia= Psalida/Pentrada 
+* Eficiencia= Psalida/Pentrada 
 
-Psalida= Eficiencia x 0.85
+* Psalida= Eficiencia x 0.85
 
-Psalida= 5x0.85 = 4.25W
+* Psalida= 5x0.85 = 4.25W
 
 Se cumple que el valor de salida es menor al valor de entrada
 
-***4)Video***
+## 4. Video
 
 
 
-***5.Conclusiones***
+## 5. Conclusiones
 
 Con la elaboración de este informe se pudo estudiar y entender la ley de ohm poniendo en práctica los conocimientos y la teoría para la resolución de problemas. Con la resolución de muchos de estos problemas se puso en práctica el uso de los prefijos métricos puesto que para la resolución de estos era necesario la conversión de algunos datos. Este informe a la vez sirvió para conocer el manejo de la ley de ohm en combinación de la potencia, la conversión de unidades por horas, minutos y segundos y la identificación del porcentaje de eficacia de la potencia.
 
-***6.Bibliografía***
+## 6. Bibliografía
 
 _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.
 

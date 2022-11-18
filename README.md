@@ -69,7 +69,7 @@ I=V/R
 
 C tiene más corriente y A tiene menos
 
-## 12) Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+### 12) Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
 * Para este ejercicio utilizo la medida de la corriente en amperios:
 
@@ -81,13 +81,13 @@ r=20/0.1 = 200Ω -----> con este valor de resistencia calculo un nuevo voltaje c
 
 * Si la fuente inicial era de 20V tiene que incrementar 10V ya que el voltaje requerido para 0.15A es de 30V
 
-## 14) ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta
+### 14) ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta
 
 Si debido a que cuando aumenta el voltaje, también la corriente, es decir son proporcionales
 
 #### ---------- Seccion 3-2 Calculo de Corriente ----------
 
-## 16) Determine la corriente en cada caso:
+### 16) Determine la corriente en cada caso:
 
 * a) V=9V, R=2.7kΩ
 
@@ -219,7 +219,7 @@ ohmmetro mostradas
 
 
 
-**=====================EJERCICIOS CAPITULO 4==========================**
+## ========== EJERCICIOS CAPITULO 4 ==========
 
 **2)Demuestre que hay 3.6x10<sup>6</sup> joules en un kilowatt-hora**
 
